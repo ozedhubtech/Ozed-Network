@@ -1,0 +1,21 @@
+{
+  "data_id": "unique_hash_identifier",
+  "owner": "wallet_address",
+  "metadata": {
+    "name": "project_document.pdf",
+    "type": "file/document/record",
+    "category": "enterprise/personal/public",
+    "timestamp": "block_number",
+    "access_level": "private/public/shared"
+  },
+  "storage": {
+    "cid": "ipfs_cid_or_filecoin_link",
+    "size": "2.4MB"
+  },
+  "proof": {
+    "hash": "sha256_hash",
+    "signature": "digital_signature",
+    "block_reference": "block_number"
+  },
+  "status": "active/revoked/expired"
+}
