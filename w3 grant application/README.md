@@ -170,7 +170,7 @@ Additional team members, including blockchain developers, researchers, and ecosy
 - **Website:** N/A
 
 ### Legal Structure
-
+- **Registered Address** N/A (Founder-led, fully remote project. Contact reachable via email: ozedhubtech@gmail.com  / alexanderozavesheadogah@gmail.com)
 - **Registered Legal Entity:** Ozed Hub Tech
 
 ### Team's experience
