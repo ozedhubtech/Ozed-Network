@@ -3,8 +3,8 @@
 
 - **Team Name:** Ozed Hub Tech
 - **Payment Details:** 
-  - **DOT**: For the **DOT** 134Ffzb7qsYAuUVb8Wx4wj85e38pNsbXZwV1JXsxfp31o8xp
-  - **Payment**: For the **USDC** 134Ffzb7qsYAuUVb8Wx4wj85e38pNsbXZwV1JXsxfp31o8xp (USDC). 
+  - **DOT**: 134Ffzb7qsYAuUVb8Wx4wj85e38pNsbXZwV1JXsxfp31o8xp
+  - **Payment**: 134Ffzb7qsYAuUVb8Wx4wj85e38pNsbXZwV1JXsxfp31o8xp (USDC). 
 - **[Level](https://grants.web3.foundation/docs/Introduction/levels):** 2
 
 
