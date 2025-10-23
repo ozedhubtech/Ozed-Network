@@ -167,7 +167,7 @@ Additional team members, including blockchain developers, researchers, and ecosy
 
 - **Contact Name:** Alexander Ozaveshe Adogah
 - **Contact Email:** ozedhubtech@gmail.com
-- **Website:** 
+- **Website:** N/A
 
 ### Legal Structure
 
