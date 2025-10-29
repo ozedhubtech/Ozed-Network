@@ -1,0 +1,98 @@
+
+Alphabetically organized glossary of blockchain and Ozed Network-related terms.
+
+A:
+- API (Application Programming Interface)
+A set of endpoints and methods allowing software applications to interact with blockchain nodes or smart contracts.
+
+B:
+- Block
+A data structure containing a list of transactions, a timestamp, and a cryptographic hash of the previous block.
+- Blockchain
+A decentralized ledger that records transactions in blocks linked chronologically and secured by cryptography.
+
+C:
+- CLI (Command-Line Interface)
+A text-based interface used to interact with blockchain nodes or development tools.
+- Consensus Mechanism
+The protocol through which all nodes in the network agree on the state of the blockchain.
+- Cross-chain Collaboration
+Ozed Network’s capacity to interact with other blockchain ecosystems such as Polkadot and Kusama.
+
+D:
+- Data Availability Layer
+Ensures that all necessary data for verifying blocks is accessible to network participants.
+- Data Provenance
+The history and traceability of data from its creation to its usage.
+- Data Sovereignty
+The principle that individuals and organizations have full control over their data storage, access, and sharing.
+- Decentralized Data Interoperability
+The ability of blockchains and systems to exchange and verify data without central control.
+
+G:
+- Governance
+The on-chain decision-making system that determines protocol upgrades and policies.
+- Governance Token
+A native token allowing holders to participate in protocol decision-making.
+
+I:
+- Immutability
+Once data or transactions are recorded on the blockchain, they cannot be altered or deleted.
+- Interoperability Protocols
+Standards enabling secure communication and data exchange across different blockchains.
+- IPFS (InterPlanetary File System)
+A decentralized storage network for sharing and accessing files distributed across nodes.
+
+M:
+- Modular Architecture
+A blockchain design where components like consensus, execution, and storage are separated for flexibility.
+
+N:
+- Node
+A computer that connects to the blockchain network, validating and sharing data with others.
+
+O:
+- On-chain Identity
+A decentralized identity framework that links verifiable credentials to blockchain addresses.
+
+P:
+- Pallet
+Modular components in Substrate defining specific functionalities such as balances, governance, and identity.
+- Parachain
+A blockchain connected to a relay chain in the Polkadot or Kusama network to share interoperability and security.
+- Proof of Stake (PoS)
+A consensus model where validators are chosen based on token staking rather than computational power.
+
+R:
+- Relay Chain
+The central chain in Polkadot that coordinates and secures connected parachains.
+- RPC (Remote Procedure Call)
+A protocol that enables communication between a blockchain node and external applications.
+- Runtime
+Defines how transactions are processed and how the blockchain state transitions occur.
+
+S:
+- SDK (Software Development Kit)
+A collection of tools, libraries, and documentation for building blockchain applications.
+- Smart Contract
+Self-executing code stored on the blockchain that runs automatically when predefined conditions are met.
+- Substrate
+A modular blockchain framework by Parity Technologies for building customizable blockchains.
+
+T:
+- Tokenomics
+The economic model that governs token creation, distribution, and use within the ecosystem.
+- Transparency
+An immutable record of actions visible to all participants to ensure accountability and trust.
+
+V:
+- Validator
+A participant that validates and produces new blocks, ensuring the network's integrity.
+
+W:
+- WASM (WebAssembly)
+A binary instruction format used by Substrate runtimes for efficient execution across different environments.
+
+X:
+- XCMP (Cross-Chain Message Passing)
+Protocol for communication between parachains in the Polkadot ecosystem.
