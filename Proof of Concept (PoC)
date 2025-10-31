@@ -4,7 +4,7 @@ IPFS integration, ownership & access controls, a minimal on-chain governance flo
 The PoC will include code, tests, documentation, and a demo script so evaluators can independently reproduce and audit the prototype.
 
 ## Overview
-Ozed Network is a Layer 1 blockchain designed by **Ozed Hub Technology** to establish data sovereignty, transparency, and interoperability for individuals, enterprises, and organizations. 
+Ozed Network is a Layer 1 blockchain designed by **Ozed Hub Tech** to establish data sovereignty, transparency, and interoperability for individuals, enterprises, and organizations. 
 This repository contains the research and PoC (Proof of Concept) phase of the Ozed Network project, built using **Substrate** and integrated with **IPFS** for decentralized data storage.
 
 The PoC demonstrates:
