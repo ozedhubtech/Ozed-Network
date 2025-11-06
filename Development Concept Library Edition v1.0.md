@@ -193,6 +193,9 @@ Defines how Ozed processes transactions, state changes, and smart logic via WASM
 
 S
 
+Sandbox
+A restricted and isolated environment where WASM code runs system
+
 SDK (Software Development Kit)
 A collection of Ozed development tools and libraries for building applications or modules on the network.
 
