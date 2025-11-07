@@ -216,6 +216,11 @@ T
 Tokenomics
 The economic design governing token supply, distribution, staking rewards, and utility within the Ozed ecosystem.
 
+Tokenocracy
+a form of governance where those who hold more tokens get more voting power or influence over decisions in a network, platform, or organization.
+
+Example:
+
 Transaction Pool
 The memory area where unconfirmed transactions wait before being included in a block.
 
