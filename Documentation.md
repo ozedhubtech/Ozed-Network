@@ -68,11 +68,11 @@ CORE PROTOCOLS
 
 ### ARCHITECTURE OVERVIEW
 Layered Architecture
-*--------------------------------------------------*
-|                 - Application Layer              |
+---
+|                 * Application Layer              |
 |  (Dashboard, Validator Console, Governance UI)   |
 *--------------------------------------------------*
-|        - Identity & Access Management Layer      |
+|        * Identity & Access Management Layer      |
 |  (DIDs, role-based access, key management)       |
 +--------------------------------------------------+
 |             - Blockchain Runtime Layer           |
