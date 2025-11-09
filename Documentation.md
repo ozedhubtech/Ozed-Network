@@ -1,5 +1,5 @@
 CORE COMPONENTS
-a. Ozed Runtime (Blockchain Core)
+* a. Ozed Runtime (Blockchain Core)
   Built using Substrate FRAME.
   Implements custom pallets to handle:
   - Data Registration: Hashing and anchoring data records on-chain.
@@ -8,7 +8,7 @@ a. Ozed Runtime (Blockchain Core)
   - Governance: DAO-like structure for proposal, voting, and protocol upgrades.
   - Each pallet will follow Substrate’s modular design to ensure upgradability and interoperability.
 
-b. Data Layer
+* b. Data Layer
   Off-chain storage using IPFS/Filecoin for large data payloads.
   On-chain references store:
   - data_id (hash of content)
@@ -23,7 +23,7 @@ b. Data Layer
   - Data metadata and CID are recorded in a Substrate pallet.
   - Verification queries can later re-hash content and confirm authenticity.
 
-c. Governance Layer
+* c. Governance Layer
   - Based on a DAO-like model using FRAME Governance Pallets (for instance, collective, democracy, council ...).
   - Token-weighted or role-based voting depending on the data governance model.
   - Supports on-chain proposal submission, review, and parameter adjustment.
@@ -32,7 +32,7 @@ c. Governance Layer
   - Validator set management.
   - Fee structures and network upgrades.
 
-d. Interoperability Layer
+* d. Interoperability Layer
   - Integrates with Polkadot for cross-chain data sharing.
   - Uses Substrate Bridge Pallets for communication with external chains.
   - Targets future deployment as a parachain to the Polkadot relay chain.
@@ -41,14 +41,14 @@ d. Interoperability Layer
   - Facilitate multi-chain data governance and trust interoperability.
   - Use XCM (Cross-Consensus Messaging) for cross-chain transactions and proof sharing.
 
-e. Identity & Access Layer
+* e. Identity & Access Layer
   Integrates Decentralized Identifiers (DIDs) for unique user and organization representation.
   Enables role-based permissions, allowing data owners to:
   - Grant or revoke access.
   - Create delegated roles (e.g., organization, validator, researcher).
   - Designed for compatibility with SSI (Self-Sovereign Identity) standards.
 
-f. Application / User Interface
+* f. Application / User Interface
   Frontend built using React + TypeScript + Polkadot.js API.
   Includes:
   - Dashboard: View registered data, proofs, and permissions.
