@@ -69,22 +69,22 @@ CORE PROTOCOLS
 ARCHITECTURE OVERVIEW
 Layered Architecture
 +--------------------------------------------------+
-|                   Application Layer              |
+|                 - Application Layer              |
 |  (Dashboard, Validator Console, Governance UI)   |
 +--------------------------------------------------+
-|          Identity & Access Management Layer      |
+|        - Identity & Access Management Layer      |
 |  (DIDs, role-based access, key management)       |
 +--------------------------------------------------+
-|               Blockchain Runtime Layer           |
+|             - Blockchain Runtime Layer           |
 |  (Substrate FRAME, data pallets, governance)     |
 +--------------------------------------------------+
-|               Interoperability Layer             |
+|             - Interoperability Layer             |
 |  (Polkadot relay, bridges, XCM protocols)        |
 +--------------------------------------------------+
-|              Data & Storage Layer                |
+|            - Data & Storage Layer                |
 |  (IPFS, Filecoin, off-chain workers)             |
 +--------------------------------------------------+
-|            Infrastructure & Security Layer       |
+|          - Infrastructure & Security Layer       |
 |  (Nodes, libp2p, cryptography, auditing)         |
 +--------------------------------------------------+
 
