@@ -65,30 +65,36 @@ CORE PROTOCOLS
 | **Access Control Protocol**    | Manages permission grants and revocations            | Role-based or token-based permissions |
 | **Cross-chain Data Protocol**  | Enables interoperability with Polkadot/Kusama chains | XCM message passing                   |
 
-
-### ARCHITECTURE OVERVIEW
-Layered Architecture
 ---
+
+ARCHITECTURE OVERVIEW
+(Layered Architecture)
+
 | **Application Layer**  |
 |-------------------------------------------------|
 | (Dashboard, Validator Console, Governance UI)   |
----
-| **Identity & Access Management Layer**           |
-|  (DIDs, role-based access, key management)       |
-+--------------------------------------------------+
-|             - Blockchain Runtime Layer           |
-|  (Substrate FRAME, data pallets, governance)     |
-+--------------------------------------------------+
-|             - Interoperability Layer             |
-|  (Polkadot relay, bridges, XCM protocols)        |
-+--------------------------------------------------+
-|            - Data & Storage Layer                |
-|  (IPFS, Filecoin, off-chain workers)             |
-+--------------------------------------------------+
-|          - Infrastructure & Security Layer       |
-|  (Nodes, libp2p, cryptography, auditing)         |
-+--------------------------------------------------+
 
+| **Identity & Access Management Layer**           |
+|--------------------------------------------------|
+|  (DIDs, role-based access, key management)       |
+
+| **Blockchain Runtime Layer**                     |
+|--------------------------------------------------|
+|  (Substrate FRAME, data pallets, governance)     |
+
+| **Interoperability Layer**                       |
+|--------------------------------------------------|
+|  (Polkadot relay, bridges, XCM protocols)        |
+
+| **Data & Storage Layer**                         |
+|--------------------------------------------------|
+|  (IPFS, Filecoin, off-chain workers)             |
+
+| **Infrastructure & Security Layer**              |
+|--------------------------------------------------|
+|  (Nodes, libp2p, cryptography, auditing)         |
+
+---
 
 DEPLOYMENT ARCHITECTURE
 Stage 1:
