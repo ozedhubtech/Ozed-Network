@@ -68,10 +68,10 @@ CORE PROTOCOLS
 
 ARCHITECTURE OVERVIEW
 Layered Architecture
-+--------------------------------------------------+
+*--------------------------------------------------*
 |                 - Application Layer              |
 |  (Dashboard, Validator Console, Governance UI)   |
-+--------------------------------------------------+
+*--------------------------------------------------*
 |        - Identity & Access Management Layer      |
 |  (DIDs, role-based access, key management)       |
 +--------------------------------------------------+
