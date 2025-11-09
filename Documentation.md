@@ -66,7 +66,7 @@ CORE PROTOCOLS
 | **Cross-chain Data Protocol**  | Enables interoperability with Polkadot/Kusama chains | XCM message passing                   |
 
 
-ARCHITECTURE OVERVIEW
+### ARCHITECTURE OVERVIEW
 Layered Architecture
 *--------------------------------------------------*
 |                 - Application Layer              |
