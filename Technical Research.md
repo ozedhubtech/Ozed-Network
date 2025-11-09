@@ -1,4 +1,4 @@
-# Ozed Network – Milestone 1: Technical Research & Architecture (Decentralized Operating System)
+# Ozed Network – Milestone 1: Technical Research (Decentralized Operating System)
 
 ## Preface: Evolution of the Ozed Vision
 Ozed Network began as a **Layer 1 blockchain** focused on data sovereignty, transparency, and decentralized interoperability.  
